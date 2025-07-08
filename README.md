@@ -12,7 +12,7 @@ this will enable below UI:
 
 You can import the excel but make sure excel follow below requirements:- 
 "Header should be as below" 
-Test Case ID	Description 	Expected Result	Tool Available	Type	Meter State
+Test Case ID	Description 	Expected Result	
 ![image](https://github.com/user-attachments/assets/e682f9d3-be2e-4b66-9b1a-cfd32376932a)
 
 For any issue ping me on thorpandit@gmail.com
