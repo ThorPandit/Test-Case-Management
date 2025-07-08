@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Shubham",
+        "emp_id": "Genus@001",
+        "role": "admin"
+    },
+    {
+        "name": "Chinmay",
+        "emp_id": "Genus@5251",
+        "role": "admin"
+    },
+    {
+        "name": "Ritu",
+        "emp_id": "Genus@5150",
+        "role": "user"
+    }
+]
